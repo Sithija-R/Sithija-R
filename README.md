@@ -2,14 +2,22 @@
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 ---
-
-- 👀 I’m interested in **new technologies, artificial intelligence, and software development.**
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; grid-gap: 10px;">
+  <div>
+    - 👀 I’m interested in **new technologies, artificial intelligence, and software development.**
 
 - 🌱 I’m currently learning **machine learning techniques and advanced algorithms.**
 
 - 👯 I’m looking to collaborate on **open-source projects related to AI or web development**
 
 - 📫 How to reach me **sithijarathukorale@gmail.com**
+  </div>
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<br><br>
+  </div>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
