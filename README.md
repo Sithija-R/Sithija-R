@@ -2,21 +2,20 @@
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 ---
-<div style="display: grid;  grid-gap: 10px;">
-  <div>
-    - 👀 I’m interested in **new technologies, artificial intelligence, and software development.**
-
-- 🌱 I’m currently learning **machine learning techniques and advanced algorithms.**
-
-- 👯 I’m looking to collaborate on **open-source projects related to AI or web development**
-
-- 📫 How to reach me **sithijarathukorale@gmail.com**
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 10px;">
+  <div style="padding: 10px; border: 1px solid #ccc;">
+    <ul style="list-style-type: none; padding: 0;">
+      <li>👀 I’m interested in <strong>new technologies, artificial intelligence, and software development.</strong></li>
+      <li>🌱 I’m currently learning <strong>machine learning techniques and advanced algorithms.</strong></li>
+      <li>👯 I’m looking to collaborate on <strong>open-source projects related to AI or web development</strong></li>
+      <li>📫 How to reach me <strong>sithijarathukorale@gmail.com</strong></li>
+    </ul>
   </div>
   <div>
-    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-<br><br>
+    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
   </div>
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>
