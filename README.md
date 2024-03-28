@@ -2,8 +2,8 @@
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 ---
-<div style="display: grid; grid-template-columns: 1fr 1fr; grid-gap: 10px;">
-  <div style="padding: 10px; border: 1px solid #ccc;">
+<div display: grid; grid-template-columns: 1fr 1fr; grid-gap: 10px;>
+  <div padding: 10px; border: 1px solid #ccc;>
     <ul style="list-style-type: none; padding: 0;">
       <li>👀 I’m interested in <strong>new technologies, artificial intelligence, and software development.</strong></li>
       <li>🌱 I’m currently learning <strong>machine learning techniques and advanced algorithms.</strong></li>
