@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sithija R</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
+
 ---
+
 - 👀 I’m interested in **new technologies, artificial intelligence, and software development.**
 
 - 🌱 I’m currently learning **machine learning techniques and advanced algorithms.**
