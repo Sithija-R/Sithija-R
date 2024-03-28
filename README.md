@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 ---
-<table align="center" border="none">
+<table align="center" style="border-collapse: collapse;">
 <tr border="none">
 <td width="50%" align="left">
   
@@ -26,22 +26,6 @@
 </tr>
 </table>
 
-<div display="grid" grid-template-columns=" 1fr 1fr">
-  <div max-width="50px">
-    - 👀 I’m interested in new technologies, artificial intelligence, and software development.
-
-- 🧑‍🎓 I’m an Undergraduate at **SUSL**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me sithijarathukorale@gmail.com
-  
-  </div>
-  <div width="50px">
-    <img align="center" alt="Coding" width="100"  src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  </div>
-</div>
 
 
 <h3 align="left">Connect with me:</h3>
