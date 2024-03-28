@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 ---
-<table align="center">
+<table align="center" border="none">
 <tr border="none">
 <td width="50%" align="left">
   
@@ -15,7 +15,6 @@
 
 - 📫 How to reach me sithijarathukorale@gmail.com
   
-- ⚡ Fun fact **Call me as KD**
 
 </td>
 <td width="50%" align="center">
