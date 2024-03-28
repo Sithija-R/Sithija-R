@@ -1,20 +1,31 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Sithija R</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 ---
-<div display: grid; grid-template-columns: 1fr 1fr; grid-gap: 10px;>
-  <div padding: 10px; border: 1px solid #ccc;>
-    <ul style="list-style-type: none; padding: 0;">
-      <li>👀 I’m interested in <strong>new technologies, artificial intelligence, and software development.</strong></li>
-      <li>🌱 I’m currently learning <strong>machine learning techniques and advanced algorithms.</strong></li>
-      <li>👯 I’m looking to collaborate on <strong>open-source projects related to AI or web development</strong></li>
-      <li>📫 How to reach me <strong>sithijarathukorale@gmail.com</strong></li>
-    </ul>
-  </div>
-  <div>
-    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
-  </div>
-</div>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 👀 I’m interested in new technologies, artificial intelligence, and software development.
+
+- 🧑‍🎓 I’m an Undergraduate at **SUSL**
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me sithijarathukorale@gmail.com
+  
+- ⚡ Fun fact **Call me as KD**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
 
 
 
