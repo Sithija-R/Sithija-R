@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
 ---
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; grid-gap: 10px;">
+<div style="display: grid;  grid-gap: 10px;">
   <div>
     - 👀 I’m interested in **new technologies, artificial intelligence, and software development.**
 
