@@ -27,7 +27,7 @@
 </table>
 
 <div display="grid">
-  <div width="40%">
+  <div max-width="50px">
     - 👀 I’m interested in new technologies, artificial intelligence, and software development.
 
 - 🧑‍🎓 I’m an Undergraduate at **SUSL**
@@ -37,8 +37,8 @@
 - 📫 How to reach me sithijarathukorale@gmail.com
   
   </div>
-  <div width="40%">
-    <img align="center" alt="Coding" width="450" width="50%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <div width="50px">
+    <img align="center" alt="Coding" width="40"  src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
   </div>
 </div>
