@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 👀 I’m interested in new technologies, artificial intelligence, and software development.
+- 👀 I’m interested in software development.
 
 - 🧑‍🎓 I’m an Undergraduate at **SUSL**
 
