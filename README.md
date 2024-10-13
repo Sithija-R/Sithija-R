@@ -43,9 +43,8 @@
 
 ---
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-   
+<align="center">
+   <h3 align="left">🐍 My Contributions 🐍</h3>
   <br>
     
  <picture>
@@ -55,7 +54,7 @@
 </picture>
   
   <br/><br/><br/>
-</div>
+</>
 
 
 
