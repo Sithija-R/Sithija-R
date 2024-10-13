@@ -1,6 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&weight=500&center=true&vCenter=true&width=500&height=70&color=#2cf1eb&duration=5000&lines=Hi+There!+👋;+I'm+Sithija!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&weight=500&center=true&vCenter=true&width=500&height=70&color=2cf1eb&duration=5000&lines=Hi+There!+👋;+I'm+Sithija!;" />
 </h1>
 <h3 align="center">A passionate SE undergraduate | Hacking the Boundaries of Possibility</h3>
 
