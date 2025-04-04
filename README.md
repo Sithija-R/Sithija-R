@@ -9,15 +9,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 👀 I’m interested in software development.
-
-- 🧑‍🎓 I’m an Undergraduate at SUSL
-
-- 💬 Ask me about Java
-
-- 🌐 Check out my portfolio: sithija-r.github.io/sithija-portfolio
-
-- 📫 How to reach me: sithijaruwan@gmail.com
+- 👀 I’m interested in software development.  
+- 🧑‍🎓 I’m an Undergraduate at **SUSL**  
+- 💬 Ask me about **Java**  
+- 🌐 Check out my [Portfolio](https://sithija-r.github.io/sithija-portfolio/)  
+- 📫 How to reach me: [sithijaruwan@gmail.com](mailto:sithijaruwan@gmail.com)  
 
 
 
