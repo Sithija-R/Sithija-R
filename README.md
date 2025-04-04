@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sithija-r-athukorale-625475249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sithija r athukorale" height="30" width="40" /></a>
 <a href="https://fb.com/sithija r athukorale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sithija r athukorale" height="30" width="40" /></a>
-<a href="https://sithija-r.github.io/sithija-portfolio/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4906/4906292.png" alt="sithija r athukorale" height="30" width="40" /></a>
+<a href="https://sithija-r.github.io/sithija-portfolio/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4906/4906292.png" alt="sithija r athukorale"  width="40" /></a>
 </p>
 
 ---
