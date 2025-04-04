@@ -11,12 +11,15 @@
   
 - 👀 I’m interested in software development.
 
-- 🧑‍🎓 I’m an Undergraduate at **SUSL**
+- 🧑‍🎓 I’m an Undergraduate at SUSL
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about Java
 
-- 📫 How to reach me sithijaruwan@gmail.com
-  
+- 🌐 Check out my portfolio: sithija-r.github.io/sithija-portfolio
+
+- 📫 How to reach me: sithijaruwan@gmail.com
+
+
 
 </td>
 <td width="50%" align="center">
