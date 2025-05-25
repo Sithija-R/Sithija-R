@@ -9,9 +9,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-🚀 Software Engineer | 🤖 ML & AI Enthusiast | ⚙️ DevOps Learner  
-🎯 Passionate about building creative & scalable solutions  
-🌐 [Portfolio](https://sithija-r.github.io/sithija-portfolio/)
+- 🚀 Software Developer | 🤖 ML & AI Enthusiast  
+- ⚙️ DevOps Learner  
+- 🎯 Passionate about building creative & scalable solutions  
+- 🌐 [Portfolio](https://sithija-r.github.io/sithija-portfolio/)
+
 
 
 
@@ -34,14 +36,14 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://medium.com/@sithijarathukorale" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" height="30" width="40" />
+    <img align="center" src="https://images.icon-icons.com/3041/PNG/512/medium_logo_icon_189223.png" alt="Medium" height="30" width="40" />
   </a>
     <a href="https://sithija-r.github.io/sithija-portfolio/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-portfolio-web-design-and-development-flatart-icons-flat-flatarticons.png" alt="Portfolio" height="30" width="40" />
+    <img align="center" src="https://www.pngitem.com/pimgs/m/146-1468394_ic-account-box-48px-profile-picture-icon-square.png" alt="Portfolio" height="30" width="40" />
   </a>
 </p>
 
-
+---
 
 
 <h3 align="left">Tech Stack & Tools:</h3>
@@ -76,12 +78,6 @@
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="50" height="50"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ReactNative-Light.svg" alt="React Native" width="50" height="50"/>
-  </a>
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Expo.svg" alt="Expo" width="50" height="50"/>
   </a>
 
   <!-- Backend & Frameworks -->
@@ -131,17 +127,12 @@
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Maven" width="50" height="50"/>
   </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Jupyter-Dark.svg" alt="Jupyter" width="50" height="50"/>
-  </a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Colab-Dark.svg" alt="Google Colab" width="50" height="50"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1D7MrZ7nB1zrroLIH9AFzBTf-baZM1-it-Q&s" alt="Google Colab" width="50" height="50"/>
   </a>
 
   <!-- Stacks -->
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MERN-Dark.svg" alt="MERN Stack" width="50" height="50"/>
-  </a>
+  
 </p>
 
 
