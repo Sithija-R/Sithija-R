@@ -122,9 +122,7 @@
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Maven" width="50" height="50"/>
   </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1D7MrZ7nB1zrroLIH9AFzBTf-baZM1-it-Q&s" alt="Google Colab" width="50" height="50"/>
-  </a>
+
 
   <!-- Stacks -->
   
