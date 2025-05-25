@@ -35,12 +35,7 @@
   <a href="https://www.linkedin.com/in/sithija-r-athukorale-625475249/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@sithijarathukorale" target="blank">
-    <img align="center" src="https://images.icon-icons.com/3041/PNG/512/medium_logo_icon_189223.png" alt="Medium" height="30" width="40" />
-  </a>
-    <a href="https://sithija-r.github.io/sithija-portfolio/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://www.pngitem.com/pimgs/m/146-1468394_ic-account-box-48px-profile-picture-icon-square.png" alt="Portfolio" height="30" width="40" />
-  </a>
+
 </p>
 
 ---
