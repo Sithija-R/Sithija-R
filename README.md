@@ -29,18 +29,8 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sithija-r-athukorale-625475249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sithija r athukorale" height="30" width="40" /></a>
-<a href="https://fb.com/sithija r athukorale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sithija r athukorale" height="30" width="40" /></a>
-<a href="https://sithija-r.github.io/sithija-portfolio/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4906/4906292.png" alt="sithija r athukorale"  width="40" /></a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <!-- Programming Languages -->
-  <strong>Languages:</strong><br/>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50"/>
   </a>
@@ -56,11 +46,8 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50"/>
   </a>
-  
-  <br/><br/>
 
-  <!-- Web Development -->
-  <strong>Web Development:</strong><br/>
+  <!-- Web Technologies -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="50" height="50"/>
   </a>
@@ -74,33 +61,26 @@
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="50" height="50"/>
   </a>
 
-  <br/><br/>
-
-  <!-- Backend & Database -->
-  <strong>Backend & Database:</strong><br/>
+  <!-- Backend Technologies -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node.js" width="50" height="50"/>
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="PHP" width="50" height="50"/>
   </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring" width="50" height="50"/>
+  </a>
+
+  <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="50" height="50"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50"/>
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring" width="50" height="50"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Maven" width="50" height="50"/>
-  </a>
 
-  <br/><br/>
-
-  <!-- Tools & Platforms -->
-  <strong>Tools & Platforms:</strong><br/>
+  <!-- Tools and Platforms -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50"/>
   </a>
@@ -119,7 +99,11 @@
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="50" height="50"/>
   </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Maven" width="50" height="50"/>
+  </a>
 </p>
+
 
 
 ---
