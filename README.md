@@ -9,10 +9,10 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 👀 I’m interested in software development.  
-- 🧑‍🎓 I’m an Undergraduate at **SUSL**  
-- 💬 Ask me about **Java**  
-- 🌐 Check out my [Portfolio](https://sithija-r.github.io/sithija-portfolio/)  
+🚀 Software Engineer | 🤖 ML & AI Enthusiast | ⚙️ DevOps Learner  
+🎯 Passionate about building creative & scalable solutions  
+🌐 [Portfolio](https://sithija-r.github.io/sithija-portfolio/)
+
 
 
 
@@ -29,6 +29,23 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sithija-r-athukorale-625475249/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@sithijarathukorale" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" height="30" width="40" />
+  </a>
+    <a href="https://sithija-r.github.io/sithija-portfolio/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-portfolio-web-design-and-development-flatart-icons-flat-flatarticons.png" alt="Portfolio" height="30" width="40" />
+  </a>
+</p>
+
+
+
+
+<h3 align="left">Tech Stack & Tools:</h3>
+
 <p align="center">
   <!-- Programming Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -60,13 +77,25 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="50" height="50"/>
   </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ReactNative-Light.svg" alt="React Native" width="50" height="50"/>
+  </a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Expo.svg" alt="Expo" width="50" height="50"/>
+  </a>
 
-  <!-- Backend Technologies -->
+  <!-- Backend & Frameworks -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node.js" width="50" height="50"/>
   </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="50" height="50"/>
+  </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="PHP" width="50" height="50"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" width="50" height="50"/>
   </a>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Dark.svg" alt="Spring" width="50" height="50"/>
@@ -80,7 +109,7 @@
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50"/>
   </a>
 
-  <!-- Tools and Platforms -->
+  <!-- Tools & Platforms -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50"/>
   </a>
@@ -96,13 +125,25 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="Linux" width="50" height="50"/>
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="50" height="50"/>
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Maven-Dark.svg" alt="Maven" width="50" height="50"/>
   </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Jupyter-Dark.svg" alt="Jupyter" width="50" height="50"/>
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Colab-Dark.svg" alt="Google Colab" width="50" height="50"/>
+  </a>
+
+  <!-- Stacks -->
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MERN-Dark.svg" alt="MERN Stack" width="50" height="50"/>
+  </a>
 </p>
+
 
 
 
