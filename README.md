@@ -145,7 +145,7 @@
 
 
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithija-R&layout=donut&theme=gotham&langs_count=8&card_width=700" alt="Top Languages"  />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithija-R&layout=donut&theme=gotham&langs_count=8" alt="Top Languages"  />
 </p>
 
 
