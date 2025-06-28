@@ -130,8 +130,11 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithija-R&layout=compact&theme=github_dark&title_color=00FF00&text_color=00FF00&bg_color=0D1117" alt="Top Languages" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sithija-R&layout=donut&theme=github_dark)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithija-R&layout=donut&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sithija-R&show_icons=true&theme=gotham" alt="stat" />
+</p>
 
 
 
