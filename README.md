@@ -128,7 +128,9 @@
   
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/Sithija-R/github-readme-stats)
+---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sithija-R&layout=compact&theme=github_dark&title_color=00FF00&text_color=00FF00&bg_color=0D1117" alt="Top Languages" />
 
 
 ---
